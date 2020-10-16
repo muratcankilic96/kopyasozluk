@@ -1,0 +1,1 @@
+This website is a clone of Ekşi Sözlük, which is a Turkish Urban Dictionary-like website which allows users to type their entries. Whole language is in Turkish, and database should be set with a MySQL client.
